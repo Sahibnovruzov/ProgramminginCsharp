@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\bin\Debug\StaticYapiciMethod.exe.config
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\bin\Debug\StaticYapiciMethod.exe
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\bin\Debug\StaticYapiciMethod.pdb
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\obj\Debug\StaticYapiciMethod.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\obj\Debug\StaticYapiciMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\obj\Debug\StaticYapiciMethod.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\obj\Debug\StaticYapiciMethod.exe
+C:\Users\hp\Desktop\c#\StaticYapiciMethod\obj\Debug\StaticYapiciMethod.pdb

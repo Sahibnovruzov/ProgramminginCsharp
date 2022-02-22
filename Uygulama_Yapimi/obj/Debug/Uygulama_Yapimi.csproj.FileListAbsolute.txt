@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\obj\Debug\Uygulama_Yapimi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\obj\Debug\Uygulama_Yapimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\obj\Debug\Uygulama_Yapimi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\bin\Debug\Uygulama_Yapimi.exe.config
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\bin\Debug\Uygulama_Yapimi.exe
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\bin\Debug\Uygulama_Yapimi.pdb
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\obj\Debug\Uygulama_Yapimi.exe
+C:\Users\hp\Desktop\c#\Uygulama_Yapimi\obj\Debug\Uygulama_Yapimi.pdb

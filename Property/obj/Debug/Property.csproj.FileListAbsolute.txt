@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c#\Property\bin\Debug\Property.exe.config
+C:\Users\hp\Desktop\c#\Property\bin\Debug\Property.exe
+C:\Users\hp\Desktop\c#\Property\bin\Debug\Property.pdb
+C:\Users\hp\Desktop\c#\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#\Property\obj\Debug\Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c#\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\Property\obj\Debug\Property.exe
+C:\Users\hp\Desktop\c#\Property\obj\Debug\Property.pdb
